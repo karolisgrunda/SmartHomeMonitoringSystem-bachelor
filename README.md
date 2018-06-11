@@ -1,3 +1,3 @@
 # SmartHomeMonitoringSystem-bakalauras
 
-![Alt text](/images/login_view.jpg)
+![Prisijungimo langas](https://raw.githubusercontent.com/karolisgrunda/SmartHomeMonitoringSystem-bakalauras/master/images/login_view.JPG

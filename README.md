@@ -1,0 +1,1 @@
+# SmartHomeMonitoringSystem-bakalauras

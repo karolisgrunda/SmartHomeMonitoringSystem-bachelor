@@ -5,4 +5,4 @@ Prisijungimo langas
 Pagrindinis langas
 ![Image](https://github.com/karolisgrunda/SmartHomeMonitoringSystem-bakalauras/blob/master/images/main_view.JPG)
 Vaizdas telefone
-![Image](https://github.com/karolisgrunda/SmartHomeMonitoringSystem-bakalauras/blob/master/images/phone_view.JPG)
+![Image](https://github.com/karolisgrunda/SmartHomeMonitoringSystem-bakalauras/blob/master/images/phone_view.jpg)

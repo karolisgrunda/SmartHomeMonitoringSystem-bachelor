@@ -1,6 +1,4 @@
-### SmartHomeMonitoringSystem-bakalauras
-
-Bachlo
+### SmartHomeMonitoringSystem-bachelor
 
 
 Login page
